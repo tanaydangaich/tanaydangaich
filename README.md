@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Tanay Dangaich
 
 🎓 **Data Scientist | Machine Learning Engineer | Lecturer**  
-📍 Based in Harrison, NJ | 🧠 Passionate about NLP, FinTech, and Research Intelligence  
+📍 Based in New York Metropolitan Area | 🧠 Passionate about NLP, Research Intelligence, and building data-driven solutions across industries
 📬 dangaichtanay@gmail.com | [LinkedIn](https://www.linkedin.com/in/tanay-dangaich/) | [GitHub](https://github.com/tanaydangaich)
 
 ---

@@ -13,7 +13,7 @@ I'm a data scientist with a master's in Data Science and Analytics from **Rutger
 - Credit risk modeling and customer analytics at **Merkle (Dentsu Group)**
 - NLP-based research automation using BERT and Transformers at **Rutgers University**
 - Deep learning for diabetic retinopathy detection at **Aiseon**
-- Teaching applied analytics and information systems to 300+ students as a **Lecturer at Rutgers**
+- Teaching applied analytics and information systems to 800+ students as a **Lecturer at Rutgers**
 
 ---
 

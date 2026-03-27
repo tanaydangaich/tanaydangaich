@@ -10,7 +10,7 @@
   diabetic retinopathy from fundus images at a healthcare startup. The through-line has always been
   the same — find signal in data that people haven't thought to look at.                                                                                                   
                                                                                                                                                                            
-  I also shipped a GPT-4o agent that sends me a daily AI news digest to Discord. Small thing, but                                                                          
+  I also shipped a GPT-4o agent that sends me a daily AI news digest and interesting events near me to Discord. Small thing, but                                                                          
   it runs every morning without me touching it, which still makes me happy.                                                                                                
                                                                                                                                                                            
   **What I'm working on:**                                                                                                                                                 

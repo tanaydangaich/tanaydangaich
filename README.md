@@ -1,6 +1,6 @@
 # Tanay Dangaich                                                                                                                                                         
                             
-  I teach data science at Rutgers by day and build things I'm genuinely curious about by night.                                                                            
+  I teach Information Systems at Rutgers by day and build things I'm genuinely curious about by night.                                                                            
    
   Most of that curiosity right now lives in one question: *when companies say something on an earnings                                                                     
   call, do investors actually go look it up?* I'm trying to answer that with 13 years of SEC server

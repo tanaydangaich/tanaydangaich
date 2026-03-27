@@ -1,17 +1,22 @@
- # Tanay Dangaich                                                                                                                                                         
+# Tanay Dangaich                                                                                                                                                         
+                            
+  I teach data science at Rutgers by day and build things I'm genuinely curious about by night.                                                                            
+   
+  Most of that curiosity right now lives in one question: *when companies say something on an earnings                                                                     
+  call, do investors actually go look it up?* I'm trying to answer that with 13 years of SEC server
+  logs and a lot of NLP.                                                                                                                                                   
+              
+  Before this, I spent time at Merkle building credit risk models, and before that, helping detect                                                                         
+  diabetic retinopathy from fundus images at a healthcare startup. The through-line has always been
+  the same — find signal in data that people haven't thought to look at.                                                                                                   
                                                                                                                                                                            
-  Data Scientist based in New York. I build ML systems and teach analytics at Rutgers — currently                                                                          
-  obsessed with using NLP to model how investors actually pay attention to information.
-
-  Most of my recent work sits at the intersection of **financial NLP** and **empirical research** —                                                                        
-  specifically whether earnings call language predicts how intensely analysts dig into SEC filings.
+  I also shipped a GPT-4o agent that sends me a daily AI news digest to Discord. Small thing, but                                                                          
+  it runs every morning without me touching it, which still makes me happy.                                                                                                
                                                                                                                                                                            
-  Previously: credit risk modeling at Merkle, medical imaging at Aiseon.
-
-  **Currently building:**
-  - [`market-attention-earnings-calls`](https://github.com/tanaydangaich/market-attention-earnings-calls) — earnings tone → EDGAR download spikes
-  - [`daily-ai-digest`](https://github.com/tanaydangaich/daily-ai-digest) — GPT-4o agent, daily AI news to Discord                                                         
+  **What I'm working on:**                                                                                                                                                 
+  - [`market-attention-earnings-calls`](https://github.com/tanaydangaich/market-attention-earnings-calls) — does earnings call tone predict filing scrutiny?               
+  - [`daily-ai-digest`](https://github.com/tanaydangaich/daily-ai-digest) — autonomous daily AI news agent                                                                 
                                                                                                                                                                            
   `Python` `SQL` `BERT` `XGBoost` `LlamaIndex` `statsmodels` `Streamlit`                                                                                                   
                                                                                                                                                                            
-  📫 dangaichtanay@gmail.com · [LinkedIn](https://www.linkedin.com/in/tanay-dangaich/)
+  📫 dangaichtanay@gmail.com · [LinkedIn](https://www.linkedin.com/in/tanay-dangaich/)    

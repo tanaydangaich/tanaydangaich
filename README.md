@@ -15,7 +15,7 @@
                                                                                                                                                                            
   **What I'm working on:**                                                                                                                                                 
   - [`market-attention-earnings-calls`](https://github.com/tanaydangaich/market-attention-earnings-calls) — does earnings call tone predict filing scrutiny?               
-  - [`daily-ai-digest`](https://github.com/tanaydangaich/daily-ai-digest) — autonomous daily AI news agent                                                                 
+  - [`daily-ai-digest`](https://github.com/tanaydangaich/daily-ai-digest) — autonomous weekly AI news agent                                                                 
                                                                                                                                                                            
   `Python` `SQL` `BERT` `XGBoost` `LlamaIndex` `statsmodels` `Streamlit`                                                                                                   
                                                                                                                                                                            
